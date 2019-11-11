@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cat Wiki</string>
+    <string name="title_search">Search</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="api_key">8a2b3925-7a9b-4590-a4b1-963963cdd99c</string>
+
+
+
+    <string name="description">Description</string>
+    <string name="origin">Origin</string>
+    <string name="life_span">Life Span</string>
+    <string name="weight">Weight</string>
+    <string name="temperament">Temperament</string>
+    <string name="wiki_link">Wikipedia link</string>
+    <string name="dog_friend_level">Dog friendliness level</string>
+
+
+</resources>
